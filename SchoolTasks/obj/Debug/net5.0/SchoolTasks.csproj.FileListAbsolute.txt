@@ -1,0 +1,16 @@
+D:\Vs Project\C#\SchoolTasks\bin\Debug\net5.0\SchoolTasks.exe
+D:\Vs Project\C#\SchoolTasks\bin\Debug\net5.0\SchoolTasks.deps.json
+D:\Vs Project\C#\SchoolTasks\bin\Debug\net5.0\SchoolTasks.runtimeconfig.json
+D:\Vs Project\C#\SchoolTasks\bin\Debug\net5.0\SchoolTasks.runtimeconfig.dev.json
+D:\Vs Project\C#\SchoolTasks\bin\Debug\net5.0\SchoolTasks.dll
+D:\Vs Project\C#\SchoolTasks\bin\Debug\net5.0\ref\SchoolTasks.dll
+D:\Vs Project\C#\SchoolTasks\bin\Debug\net5.0\SchoolTasks.pdb
+D:\Vs Project\C#\SchoolTasks\obj\Debug\net5.0\SchoolTasks.csproj.AssemblyReference.cache
+D:\Vs Project\C#\SchoolTasks\obj\Debug\net5.0\SchoolTasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vs Project\C#\SchoolTasks\obj\Debug\net5.0\SchoolTasks.AssemblyInfoInputs.cache
+D:\Vs Project\C#\SchoolTasks\obj\Debug\net5.0\SchoolTasks.AssemblyInfo.cs
+D:\Vs Project\C#\SchoolTasks\obj\Debug\net5.0\SchoolTasks.csproj.CoreCompileInputs.cache
+D:\Vs Project\C#\SchoolTasks\obj\Debug\net5.0\SchoolTasks.dll
+D:\Vs Project\C#\SchoolTasks\obj\Debug\net5.0\ref\SchoolTasks.dll
+D:\Vs Project\C#\SchoolTasks\obj\Debug\net5.0\SchoolTasks.pdb
+D:\Vs Project\C#\SchoolTasks\obj\Debug\net5.0\SchoolTasks.genruntimeconfig.cache

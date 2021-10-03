@@ -1,0 +1,16 @@
+D:\Vs Project\C#\tasks4\bin\Debug\net5.0\Tasks4.exe
+D:\Vs Project\C#\tasks4\bin\Debug\net5.0\Tasks4.deps.json
+D:\Vs Project\C#\tasks4\bin\Debug\net5.0\Tasks4.runtimeconfig.json
+D:\Vs Project\C#\tasks4\bin\Debug\net5.0\Tasks4.runtimeconfig.dev.json
+D:\Vs Project\C#\tasks4\bin\Debug\net5.0\Tasks4.dll
+D:\Vs Project\C#\tasks4\bin\Debug\net5.0\ref\Tasks4.dll
+D:\Vs Project\C#\tasks4\bin\Debug\net5.0\Tasks4.pdb
+D:\Vs Project\C#\tasks4\obj\Debug\net5.0\Tasks4.csproj.AssemblyReference.cache
+D:\Vs Project\C#\tasks4\obj\Debug\net5.0\Tasks4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vs Project\C#\tasks4\obj\Debug\net5.0\Tasks4.AssemblyInfoInputs.cache
+D:\Vs Project\C#\tasks4\obj\Debug\net5.0\Tasks4.AssemblyInfo.cs
+D:\Vs Project\C#\tasks4\obj\Debug\net5.0\Tasks4.csproj.CoreCompileInputs.cache
+D:\Vs Project\C#\tasks4\obj\Debug\net5.0\Tasks4.dll
+D:\Vs Project\C#\tasks4\obj\Debug\net5.0\ref\Tasks4.dll
+D:\Vs Project\C#\tasks4\obj\Debug\net5.0\Tasks4.pdb
+D:\Vs Project\C#\tasks4\obj\Debug\net5.0\Tasks4.genruntimeconfig.cache
